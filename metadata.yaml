@@ -35,6 +35,8 @@ description: "Edison's Conquest of Mars is an 1898 science fiction novel by Amer
   \ abductions, spacesuits (called \"air-tight suits\": see Spacesuits in fiction),\
   \ aliens building the Pyramids, space battles, oxygen pills, asteroid mining and\
   \ disintegrator rays.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19141#Edison-s-Conquest-of-Mars
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-08-29'
 gutenberg_type: Text
